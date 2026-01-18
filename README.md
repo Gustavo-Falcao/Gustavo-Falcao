@@ -1,6 +1,8 @@
 ## Olá, eu sou o Gustavo Falcão👋
----
+
 Eu sou um entusiasta da tecnologia e da resolução de problemas e atualmente estudante de Engenharia de Software. Aqui você encontrará projetos pessoais e educacionais, que abrangem do back-end ao front-end.
+
+---
 
 ### 💻 Tech Stack Highlights
 
